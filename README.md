@@ -17,7 +17,7 @@ Everything I learn, I apply directly in practice within a real-world company pro
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)  
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)  
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38bdf8?style=flat-square&logo=tailwindcss&logoColor=white)  
-![Zustand](https://img.shields.io/badge/-Zustand-000?style=flat-square&logo=react&label=zustand)  
+![Zustand](https://img.shields.io/badge/Zustand-ffaa00?style=flat-square&logo=react&logoColor=white)
 ![Axios](https://img.shields.io/badge/-Axios-5a29e4?style=flat-square&logo=axios&logoColor=white)  
 ![TanStack Query](https://img.shields.io/badge/-TanStack%20Query-ff4154?style=flat-square&logo=react-query&logoColor=white)  
 ![React Hook Form](https://img.shields.io/badge/-React%20Hook%20Form-ec5990?style=flat-square&logo=reacthookform&logoColor=white)  
