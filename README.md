@@ -13,16 +13,16 @@ Everything I learn, I apply directly in practice within a real-world company pro
 
 ### 🚀 Tech stack I use daily
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat-square&logo=Zustand&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=react-query&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white)
-![js-cookie](https://img.shields.io/badge/js--cookie-FADA5E?style=flat-square&logo=javascript&logoColor=black)
-![Jose](https://img.shields.io/badge/jose-007ACC?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=nextdotjs)  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)  
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38bdf8?style=flat-square&logo=tailwindcss&logoColor=white)  
+![Zustand](https://img.shields.io/badge/-Zustand-000?style=flat-square&logo=react&label=zustand)  
+![Axios](https://img.shields.io/badge/-Axios-5a29e4?style=flat-square&logo=axios&logoColor=white)  
+![TanStack Query](https://img.shields.io/badge/-TanStack%20Query-ff4154?style=flat-square&logo=react-query&logoColor=white)  
+![React Hook Form](https://img.shields.io/badge/-React%20Hook%20Form-ec5990?style=flat-square&logo=reacthookform&logoColor=white)  
+![js-cookie](https://img.shields.io/badge/-js--cookie-yellow?style=flat-square)  
+![jose](https://img.shields.io/badge/-jose-blue?style=flat-square)
 
 ---
 
