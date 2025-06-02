@@ -47,7 +47,7 @@ Everything I learn, I apply directly in practice within a real-world company pro
 ### 🌍 Connect with me
 
 - Telegram: [@krylov_dp](https://t.me/krylov_dp)
-- Portfolio: [vaness-dp.github.io/krylov-portfolio](https://vaness-dp.github.io/krylov-portfolio/)
+- Portfolio: [krylov-portfolio.vercel.app](https://krylov-portfolio.vercel.app/)
 
 ---
 
